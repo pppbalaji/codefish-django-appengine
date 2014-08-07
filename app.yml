@@ -1,4 +1,4 @@
-application: django-ratedapartments
+application: django1-ratedapartments
 runtime: python
 version: 1
 api_version: 1
